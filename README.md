@@ -1,14 +1,14 @@
 # Puzzle-Mania
 It is a java based Puzzle game 
 
-##How to Use it
+## How to Use it
 It is will run in all java platforms (assuming java development kit to be installed on your system)
 Just By clicking on run file to execute.
 
-##Objective
+## Objective
 The basic Objective of the game is to arrange the cells numerically with the last cell left as empty.
 
-###Screenshots
+### Screenshots
 
 
 
